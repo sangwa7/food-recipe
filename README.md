@@ -98,16 +98,11 @@ npm run test .
 All source code files are licensed under the permissive zlib license
 (http://opensource.org/licenses/Zlib) unless marked differently in a particular folder/file.
 
-## Author1
-👤 **Lekan Jimoh**
+## Author
 
-- GitHub: [d2ndjim](https://github.com/d2ndjim)
-- Twitter: [d2ndjim_](https://twitter.com/d2ndjim_)
-- LinkedIn: [Lekan](https://linkedin.com/in/lekanj)
-
-## Author2
 👤 **Sangwa Didier**
 
-- GitHub: [Sanga](https://github.com/sangwa7)
--Twitter: [@sangwa_7](https://twitter.com/sangwa_7)
--LinkedIn: [Didier Sangwa](https://www.linkedin.com/in/didier-sangwa-463054227)
+- GitHub: [Didier Sangwa](https://github.com/sangwa7)
+- Twitter: [@sangwa_7](https://twitter.com/sangwa_7)
+- LinkedIn: [Didier Sangwa](https://www.linkedin.com/in/didier-sangwa-463054227)
+
